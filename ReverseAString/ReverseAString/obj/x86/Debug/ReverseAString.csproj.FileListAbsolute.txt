@@ -1,0 +1,4 @@
+\\scprodfile-01\home$\jjepson\My Documents\Code\ReverseAString\ReverseAString\bin\Debug\ReverseAString.exe
+\\scprodfile-01\home$\jjepson\My Documents\Code\ReverseAString\ReverseAString\bin\Debug\ReverseAString.pdb
+\\scprodfile-01\home$\jjepson\My Documents\Code\ReverseAString\ReverseAString\obj\x86\Debug\ReverseAString.exe
+\\scprodfile-01\home$\jjepson\My Documents\Code\ReverseAString\ReverseAString\obj\x86\Debug\ReverseAString.pdb

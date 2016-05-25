@@ -1,0 +1,4 @@
+\\scprodfile-01\home$\jjepson\My Documents\Code\SpiralArray\SpiralArray\bin\Debug\SpiralArray.exe
+\\scprodfile-01\home$\jjepson\My Documents\Code\SpiralArray\SpiralArray\bin\Debug\SpiralArray.pdb
+\\scprodfile-01\home$\jjepson\My Documents\Code\SpiralArray\SpiralArray\obj\x86\Debug\SpiralArray.exe
+\\scprodfile-01\home$\jjepson\My Documents\Code\SpiralArray\SpiralArray\obj\x86\Debug\SpiralArray.pdb

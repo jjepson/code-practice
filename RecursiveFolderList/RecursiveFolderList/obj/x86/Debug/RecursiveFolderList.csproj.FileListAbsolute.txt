@@ -1,0 +1,4 @@
+\\scprodfile-01\home$\jjepson\My Documents\Code\RecursiveFolderList\RecursiveFolderList\bin\Debug\RecursiveFolderList.exe
+\\scprodfile-01\home$\jjepson\My Documents\Code\RecursiveFolderList\RecursiveFolderList\bin\Debug\RecursiveFolderList.pdb
+\\scprodfile-01\home$\jjepson\My Documents\Code\RecursiveFolderList\RecursiveFolderList\obj\x86\Debug\RecursiveFolderList.exe
+\\scprodfile-01\home$\jjepson\My Documents\Code\RecursiveFolderList\RecursiveFolderList\obj\x86\Debug\RecursiveFolderList.pdb
