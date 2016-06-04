@@ -1,0 +1,25 @@
+Exercise 1:
+ 
+Given the input of on two lines
+ 
+http://www.cnn.com/
+https://yahoo.com/testing/path/?redirURL=jj
+ 
+output should be comma separated, exactly like below:
+ 
+http,www.cnn.com
+https,yahoo.com,redirURL=jj
+ 
+Exercise 2:
+ 
+Given the strings as two lines your method should return true if they are normalize (),[],{} and  false if they are not normalized ([)], [{]}
+ 
+()
+([)]
+ 
+Go!
+
+
+hello world,world
+this that,that
+san diego,san diego
